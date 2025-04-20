@@ -21,7 +21,7 @@ Running Virtual Device: Pixel 7 Pro API 25
 
 ### 🛠 Prerequisites
 
-✅ Android Studio
+✅ Android Studio  
 ✅ Android Emulator or physical device (Android 7.1.1+)
 
 ### 📥 Installation
